@@ -20,6 +20,7 @@ alias gdw="git diff --color-words"
 alias gs="git status"
 alias gsp="git status --porcelain"
 alias gb="git branch"
+alias gitlab="cd ~gitlab/gitlab && sudo -u gitlab bundle exec rails s -e production"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
